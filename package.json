@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/harkon666/Learn-Drupal/issues"
   },
-  "homepage": "https://github.com/harkon666/Learn-Drupal#readme"
+  "homepage": "https://github.com/harkon666/Learn-Drupal#readme",
+  "dependencies": {
+    "drupal-node.js": "^1.0.11"
+  }
 }
